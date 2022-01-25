@@ -13,6 +13,15 @@ import java.util.Properties;
 public class EmailMessage
 {
 
+//    public static void main(String[] args) {
+//
+//        String message = "Hi, this is just a testing email.";
+//        String subject = "Testing";
+//        String to = "example@gmail.com";
+//        String from = "noreplykothakhojau@gmail.com";
+//        sendEmail(message, subject, to, from);
+//    }
+
     // creating a method to send email
     public static void sendEmail(String message, String subject, String to, String from){
 
